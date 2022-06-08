@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Danon5.</h1>
+<h1 align="center">Hi, I'm Danon5</h1>
 <p align="center">I'm an aspiring programmer chasing my dreams. I love simulations and creative programming.</p>
 
 <h2 align="left">Favorite Languages</h2>
