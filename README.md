@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Danon5—an aspiring programmer chasing his dreams.</h1>
-<p align="center">I find that there is too much to learn for one lifetime! Oh how I wish we had multiple.</p>
+<h1 align="center">Hi, I'm Danon5.</h1>
+<p align="center">I'm an aspiring programmer chasing my dreams. I love simulations and creative programming.</p>
 
 <h2 align="left">Favorite Languages</h2>
 <lo>
