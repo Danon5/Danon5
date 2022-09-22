@@ -5,7 +5,6 @@
 <lo>
   <p><li><img src="Images/csharp.png" width="16" height="16"><b> C#</b></li></p>
   <p><li><img src="Images/cplusplus.png" width="16" height="16"><b> C++</b></li></p>
-  <p><li><img src="Images/java.png" width="16" height="16"><b> Java</b></li></p>
   <p><li><b>HLSL</b></li></p>
 </lo>
 
