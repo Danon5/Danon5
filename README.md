@@ -32,5 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danon5)](https://github.com/Danon5/github-readme-stats)
 
 <h2 align="left">Contact Info</h2>
-<p><img src="Images/gmail.png" width="16" height="16"><b> danonfive@gmail.com</b></p>
-<p><img src="Images/discord.png" width="16" height="16"><b> Danon5#9329</b></p>
+<p><img src="Images/gmail.png" width="16" height="16"><b> dev.luiscostello@gmail.com</b></p>
+<p><img src="Images/discord.png" width="16" height="16"><b> dev_luiscostello</b></p>
