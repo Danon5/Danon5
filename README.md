@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Danon5</h1>
-<p align="center">I'm an aspiring game programmer who loves simulations and finding creative solutions to problems.</p>
+<p align="center">I'm an ever-evolving game programmer who loves simulations and finding creative solutions to problems.</p>
 
 <h2 align="left">Most Used Languages</h2>
 <lo>
